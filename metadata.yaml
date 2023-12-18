@@ -1,0 +1,42 @@
+_repo: Nobody-s-Rose-b-or-The-girlhood-of-Rose-Shannon_72011
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Learned, A. G. (Arthur Garfield)
+    alias: Learned, Arthur Garfield
+    birthdate: 1872
+    deathdate: 1959
+    gutenberg_agent_id: '56499'
+    url: http://www.gutenberg.org/2009/agents/56499
+creator:
+  author:
+    agent_name: Thompson, Adele E.
+    alias: Thompson, Adele Eugenia
+    birthdate: 1849
+    deathdate: 1929
+    gutenberg_agent_id: '56498'
+    url: http://www.gutenberg.org/2009/agents/56498
+    wikipedia: https://en.wikipedia.org/wiki/Adele_E._Thompson
+description: ''
+gutenberg_issued: '2023-11-02'
+identifiers:
+  gutenberg: '72011'
+  lccn: '12015810'
+language: en
+pgterms:marc904: https://archive.org/details/nobodysroseorgir00thom
+pgterms:marc905: 20230913095617thompson
+pgterms:marc906: '1912'
+pgterms:marc907: US
+production_note: Bob Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aBoston :$bLothrop, Lee & Shepard Co., $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Nobody''s Rose : $b or, The girlhood of Rose Shannon'
+url: http://www.gutenberg.org/ebooks/72011
